@@ -13,6 +13,7 @@
 			<br><br>
 			<div class="left_tab"></div>
 			<div class="mid_tab">
+				<p>Hi! I am Pankaj kumar kaushal</p>
 				<h1>Welcome to Homepage!</h1>
 			</div>
 			<div class="right_tab"></div>
